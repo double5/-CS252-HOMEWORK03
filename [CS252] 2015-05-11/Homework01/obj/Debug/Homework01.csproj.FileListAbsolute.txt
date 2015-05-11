@@ -1,0 +1,8 @@
+Z:\C#\[CS252] 2015-05-11\Homework01\bin\Debug\Homework01.exe.config
+Z:\C#\[CS252] 2015-05-11\Homework01\obj\Debug\Homework01.Form1.resources
+Z:\C#\[CS252] 2015-05-11\Homework01\obj\Debug\Homework01.Properties.Resources.resources
+Z:\C#\[CS252] 2015-05-11\Homework01\obj\Debug\Homework01.csproj.GenerateResource.Cache
+Z:\C#\[CS252] 2015-05-11\Homework01\bin\Debug\Homework01.exe
+Z:\C#\[CS252] 2015-05-11\Homework01\bin\Debug\Homework01.pdb
+Z:\C#\[CS252] 2015-05-11\Homework01\obj\Debug\Homework01.exe
+Z:\C#\[CS252] 2015-05-11\Homework01\obj\Debug\Homework01.pdb
